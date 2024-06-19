@@ -1,0 +1,1 @@
+The warehouse mainly stores books about robots, including robot design, programming, and computer vision.
